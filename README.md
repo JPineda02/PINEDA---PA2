@@ -18,3 +18,6 @@ A switch is read to determine the counting direction. The system interprets the 
 **Counter Logic**
 
 The counter value is updated based on the chosen direction, with wrap-around behavior so that it cycles between 0 and 59. This ensures continuous counting without exceeding the defined limits.
+
+
+**YOUTUBE LINK:** https://youtu.be/TCyrQg-TZCg 
